@@ -12,8 +12,11 @@ For more details, please refer to our [paper](https://link.springer.com/chapter/
 ### Citing this code
 
 If you find this code useful in your research, please consider citing:
-
-    Duggal R., Gupta A., Gupta R., Mallick P. (2017) SD-Layer: Stain Deconvolutional Layer for CNNs in Medical Microscopic Imaging. In: Descoteaux M., Maier-Hein L., Franz A., Jannin P., Collins D., Duchesne S. (eds) Medical Image Computing and Computer-Assisted Intervention − MICCAI 2017. MICCAI 2017. Lecture Notes in Computer Science, vol 10435. Springer, Cham
+```
+    Duggal R., Gupta A., Gupta R., Mallick P. (2017) SD-Layer: Stain Deconvolutional Layer for CNNs in Medical Microscopic Imaging.
+    In: Descoteaux M., Maier-Hein L., Franz A., Jannin P., Collins D., Duchesne S. (eds) Medical Image Computing and Computer-Assisted Intervention − 
+    MICCAI 2017. MICCAI 2017. Lecture Notes in Computer Science, vol 10435. Springer, Cham
+```
 
 ### Contents
 1. [Requirements](#requirements)
