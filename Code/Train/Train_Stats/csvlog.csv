@@ -1,0 +1,2 @@
+train_loss,train_acc_batchwise,test_acc,test_f1,test_prec,test_rec
+0.246774357765,0.553340328849,0.507886435331,0.673640167364,1.0,0.507886435331

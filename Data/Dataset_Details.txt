@@ -1,0 +1,74 @@
+Images from the following folders are used for training
+
+############### Class ALL Blast #####################
+
+segmentation_ output_1
+segmentation_ output_2
+segmentation_ output_3
+segmentation_ output_4
+segmentation_ output_5
+segmentation_ output_13
+segmentation_ output_14
+segmentation_ output_15
+segmentation_ output_16
+segmentation_ output_17
+segmentation_ output_18
+segmentation_ output_19
+segmentation_ output_20
+segmentation_ output_21
+segmentation_ output_22
+segmentation_ output_23
+segmentation_ output_24
+segmentation_ output_25
+segmentation_ output_26
+segmentation_ output_27
+segmentation_ output_28
+segmentation_ output_32
+segmentation_ output_34
+segmentation_ output_35
+segmentation_ output_36
+segmentation_ output_46
+
+
+############### Class Hemat ###########################
+
+Segmentation_Output_H1
+Segmentation_Output_H2
+Segmentation_Output_h3
+Segmentation_Output_H4
+Segmentation_Output_H5
+Segmentation_Output_H6
+Segmentation_Output_H7
+Segmentation_Output_H8
+Segmentation_Output_H9
+Segmentation_Output_H10
+Segmentation_Output_H11
+Segmentation_Output_H14
+Segmentation_Output_H15
+Segmentation_Output_H16
+Segmentation_Output_H17
+Segmentation_Output_H18
+Segmentation_Output_H19
+Segmentation_Output_H20
+Segmentation_Output_H21
+Segmentation_Output_H22
+Segmentation_Output_H23
+Segmentation_Output_H24
+Segmentation_Output_H25
+Segmentation_Output_H26
+###############################################################
+
+Images from the following folders are used for validation
+
+############### Class ALL Blast #####################
+
+segmentation_ output_30
+segmentation_ output_31
+
+
+############### Class Hemat #####################
+
+Segmentation_Output_H12
+Segmentation_Output_H13
+
+###############################################################
